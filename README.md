@@ -6,7 +6,7 @@ This DevOps project showcases the deployment of a dynamic e-commerce web app on 
 
 ### Architecture
 
-![Project Architecture Diagram](link_to_diagram)
+![Alt text](EC2-3Tier-Architecture.png)
 
 ### AWS Resources Utilized
 
